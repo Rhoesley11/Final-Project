@@ -5,6 +5,8 @@
 2. Indoor Plant Sales Growth trends
 3. Global Emission rates
 
+TOPIC: Sentiment Analysis on Reviews left on a Womens E Commerce Clothing Company
+
 
 #Evaluation Questions based on Data
 
@@ -16,21 +18,21 @@ Dependent V- Age
 Test - 
 
 - Q2
-Based on the dataset, Can the Womens Clothing Company infer that there sales from the most-sold product is based on customer satisfaction with the product?
+Based on the dataset, Can the Womens Clothing Company infer that there sales from the  top 5 most-sold products is based on customer satisfaction with the products?
 Why or why not?
 
-Independent V - Most purchased product
-Dependent V- Pos Reviews %/ Ratings
+Independent V - Top 5 Most purchased products
+Dependent V- Reviews/ Ratings/ Recommended ID
 Test -
 
 - Q3
 What department can the Clothing Company assume has the most customer satistfaction in order to promote and pursue sales here? 
-Independent V - The departments: 3 levels
-Dependent V- Customer satisfaction/Reviews sentiment %
+Independent V - The departments: 3 levels - general, general petitie, intimates
+Dependent V- The total # of positive reviews received
 Test -
 
 - Q4
 Is there a trend between longer reviews and negatively sentimented reviews?
 Independent V - Reviews: 1 level; word count
-Dependent V- Sentiment %
+Dependent V- 
 Test -
